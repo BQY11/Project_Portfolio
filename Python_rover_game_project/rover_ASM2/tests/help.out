@@ -1,0 +1,5 @@
+
+START <level file> - Starts the game with a provided file.
+QUIT - Quits the game
+HELP - Shows this message
+
